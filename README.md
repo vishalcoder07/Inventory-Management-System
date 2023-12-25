@@ -16,7 +16,7 @@
     <h3>Video:</h3>
     https://github.com/vishalcoder07/StriversSheetChallenge/assets/84537057/82eac63c-a49e-40ef-8228-b3d61355bca4
     
-    <h3>Screenshots:</h3>
+<h3>Screenshots:</h3>
   ![image](https://github.com/vishalcoder07/vishalcoder07.github.io/assets/84537057/e12caf3a-b924-4485-a817-7a4c39478286)
   ![image](https://github.com/vishalcoder07/vishalcoder07.github.io/assets/84537057/01b2ee71-152d-466e-bb8e-61a63a69f2d6)
   ![image](https://github.com/vishalcoder07/vishalcoder07.github.io/assets/84537057/3bb328b1-ddfe-4717-8b59-b1a743e142ba)
